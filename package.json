@@ -1,0 +1,19 @@
+{
+  "name": "backend-assignment",
+  "version": "1.0.0",
+  "description": "APIs for sales management platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sales",
+    "management",
+    "platform"
+  ],
+  "author": "Abhishek Timilsina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
